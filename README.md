@@ -1,5 +1,5 @@
 # 🔌 BoxESP
-BoxESP for CSGO based on pygame
+BoxESP for CSGO based on pygame  
 This code was based on Tkinter, i redone it in pygame
 
 # ❓ How it Works?
